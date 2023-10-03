@@ -1,36 +1,66 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# TradeBuddy: Sua Plataforma de Trading Inteligente 📈💼
 
-## Getting Started
+![GitHub repo size](https://img.shields.io/github/repo-size/E-Mello/trading-platform)
+![GitHub stars](https://img.shields.io/github/stars/E-Mello/trading-platform)
+![GitHub forks](https://img.shields.io/github/forks/E-Mello/trading-platform)
+![GitHub license](https://img.shields.io/github/license/E-Mello/trading-platform)
 
-First, run the development server:
+Bem-vindo ao TradeBuddy, sua plataforma de trading inteligente que está aqui para ajudá-lo a alcançar o sucesso nos mercados financeiros. Com uma série de ferramentas avançadas e recursos inteligentes, o TradeBuddy é o seu parceiro confiável no mundo do trading.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Sobre o TradeBuddy
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+O mundo do trading é desafiador e complexo, e é por isso que criamos o TradeBuddy. Nossa plataforma foi projetada para auxiliar traders de todos os níveis de experiência a tomar decisões informadas e aprimorar suas estratégias de trading. Aqui está o que o TradeBuddy oferece:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- 📊 **Ferramentas Avançadas de Análise**: Acesse gráficos, indicadores técnicos e análises de mercado em tempo real para tomar decisões mais fundamentadas.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- 💼 **Gestão de Portfólio**: Organize e rastreie seus ativos, gerenciando seu portfólio com facilidade e eficiência.
 
-## Learn More
+- 📈 **Sinais e Alertas**: Receba sinais de trading em tempo real e configure alertas personalizados para não perder nenhuma oportunidade de mercado.
 
-To learn more about Next.js, take a look at the following resources:
+- 🤖 **Trading Algorítmico**: Use nossas ferramentas de trading algorítmico para automatizar suas estratégias de trading.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- 🧠 **Inteligência Artificial**: A IA do TradeBuddy analisa dados históricos e atuais para fornecer insights valiosos e previsões de mercado.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Por Que Escolher o TradeBuddy?
 
-## Deploy on Vercel
+- **Precisão e Confiabilidade**: Nossas ferramentas são projetadas para fornecer informações precisas e confiáveis, ajudando você a tomar decisões informadas.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- **Fácil de Usar**: Mesmo se você for novo no trading, o TradeBuddy é intuitivo e amigável, com uma curva de aprendizado suave.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- **Personalização**: Ajuste a plataforma de acordo com suas necessidades e estratégias de trading individuais.
+
+- **Suporte Comunitário**: Junte-se a uma comunidade de traders entusiastas para compartilhar insights, dicas e estratégias.
+
+## Começando
+
+Para começar a usar o TradeBuddy, siga estas etapas:
+
+1. Clone este repositório:
+
+   ```bash
+   git clone https://github.com/E-Mello/trading-platform.git
+   ```
+
+2. Acesse o diretório do projeto:
+
+   ```bash
+   cd trading-platform
+   ```
+
+3. Instale as dependências:
+
+   ```bash
+   npm install
+   ```
+
+4. Inicie o TradeBuddy:
+
+   ```bash
+   npm start
+   ```
+
+Agora você está pronto para explorar e começar a usar todas as ferramentas poderosas que o TradeBuddy oferece!
+
+## Contribuição
+
+    Contribuições são bem-vindas! Se você deseja melhorar este projeto, sinta-se à vontade para abrir uma issue ou enviar um pull request.
