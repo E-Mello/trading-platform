@@ -22,7 +22,7 @@ const SideNavLeft: React.FC = () => {
     const menu: MenuProps[] = [
         {
             name: 'Home',
-            Link: '/pages/home',
+            Link: '/',
             icon: () => <FaHome />,
             haveOptions: false,
             auth: false,
@@ -45,13 +45,6 @@ const SideNavLeft: React.FC = () => {
             name: 'Relatorios',
             Link: '/pages/reports',
             icon: () => <MdDescription />,
-            haveOptions: false,
-            auth: false,
-        },
-        {
-            name: 'Contato',
-            Link: '/pages/contact',
-            icon: () => <MdCall />,
             haveOptions: false,
             auth: false,
         },
